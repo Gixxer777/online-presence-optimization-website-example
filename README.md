@@ -12,7 +12,7 @@ N/A
 
 To use the website, click on one of the top links (Search Engine Optimization, Online Reputation Management, and Social Media Marketing) to go to their respective sections on the site. Also, to view the footer, press Command+Option+I (Mac) or CTRL+Shift+I (windows) or alternatively right click anywhere on the screen and go to Inspect. Go to footer and click the three dots to view the footer that is not displayed on the website.
 
-![image of deployed website with inspect pulled up to show the footer](https://github.com/Gixxer777/online-presence-optimization-wesite-example/assets/images/screenshotofwebsite.png)
+![image of deployed website with inspect pulled up to show the footer](https://github.com/Gixxer777/online-presence-optimization-wesite-example/tree/main/assets/images/screenshotofwebsite.png)
 
 ## Credits 
 
